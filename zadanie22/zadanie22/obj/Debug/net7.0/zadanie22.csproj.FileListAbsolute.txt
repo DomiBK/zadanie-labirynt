@@ -1,0 +1,14 @@
+C:\Users\Dominik\Documents\shl\dobi\zadanie22\zadanie22\bin\Debug\net7.0\zadanie22.exe
+C:\Users\Dominik\Documents\shl\dobi\zadanie22\zadanie22\bin\Debug\net7.0\zadanie22.deps.json
+C:\Users\Dominik\Documents\shl\dobi\zadanie22\zadanie22\bin\Debug\net7.0\zadanie22.runtimeconfig.json
+C:\Users\Dominik\Documents\shl\dobi\zadanie22\zadanie22\bin\Debug\net7.0\zadanie22.dll
+C:\Users\Dominik\Documents\shl\dobi\zadanie22\zadanie22\bin\Debug\net7.0\zadanie22.pdb
+C:\Users\Dominik\Documents\shl\dobi\zadanie22\zadanie22\obj\Debug\net7.0\zadanie22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Documents\shl\dobi\zadanie22\zadanie22\obj\Debug\net7.0\zadanie22.AssemblyInfoInputs.cache
+C:\Users\Dominik\Documents\shl\dobi\zadanie22\zadanie22\obj\Debug\net7.0\zadanie22.AssemblyInfo.cs
+C:\Users\Dominik\Documents\shl\dobi\zadanie22\zadanie22\obj\Debug\net7.0\zadanie22.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\shl\dobi\zadanie22\zadanie22\obj\Debug\net7.0\zadanie22.dll
+C:\Users\Dominik\Documents\shl\dobi\zadanie22\zadanie22\obj\Debug\net7.0\refint\zadanie22.dll
+C:\Users\Dominik\Documents\shl\dobi\zadanie22\zadanie22\obj\Debug\net7.0\zadanie22.pdb
+C:\Users\Dominik\Documents\shl\dobi\zadanie22\zadanie22\obj\Debug\net7.0\zadanie22.genruntimeconfig.cache
+C:\Users\Dominik\Documents\shl\dobi\zadanie22\zadanie22\obj\Debug\net7.0\ref\zadanie22.dll
